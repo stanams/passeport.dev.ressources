@@ -2,7 +2,7 @@
 
 Ce repo contient l'ensemble des ressources correspondantes aux skills du Passeport Dev ci-dessous.
 
-![Passeport Dev](https://i.postimg.cc/G28KNxp1/Capture-d-e-cran-2023-07-25-a-12-46-21.png)
+![Passeport Dev](https://i.postimg.cc/P5Vmjv9f/Capture-d-e-cran-2023-07-25-a-12-46-21.png)
 
 **Si tu souhaites l'obtenir** en version Figma interactive, tu peux te rendre sur ce form: https://tally.so/r/nGK25j et il te sera envoyé dans ta boîte email.
 
