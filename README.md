@@ -17,7 +17,7 @@ Et son corrolaire: **Quel.le dev je veux être ?**
 
 ## Catégories
 - [Continuous Integration](continuous-integration.md)
-- Software Documentation
+- [Software Documentation](software-documentation.md)
 - Programming
 - Application testing
 - API design
@@ -55,10 +55,10 @@ Ce projet est largement inspiré de plusieurs initiatives déjà existantes, not
 
 ## Remerciements
 
-Ce projet a été conçu par Stan Amsellem, designé par Paul Maiore, et largement amélioré par les feedbacks bienveillants et attentifs de:
+Ce projet a été conçu par Stan Amsellem, designé par Paul Maiore, et largement amélioré par les feedbacks bienveillants et attentifs de:\
 Estelle Miliavsky - Engineering Manager @DocuSign\
 Chaimaa El Hassani - Engnineering Manager @Pigment\
-Clément Hussenot-Desenonges - Head of Platform @Adeo\
+Clément Hussenot-Desenonges - Head of Operations @Adeo\
 Nicolas Guérin - VP Engineering @Openclassrooms\
 Paul Mantello - Lead fullstack engineer freelance\
 Maxime Bernard - VP Engineering @Kimono\
@@ -70,7 +70,7 @@ Marc G. Gauthier - Director of Engineering @BackMarket\
 Simon Maurin - Lead Architect @leboncoin\
 Stéphane Ruhlmann - Lead fullstakc engineer @beta.gouv\
 Martin Lechaptois - ex Head of Engnieering @Singulart\
-Andres Davila - Management Professor, Psychologist - Head of Assessment & Leadership Development @ESCE, Founder @Habilitatem\
+Andres Davila - Management Professor, Psychologist - Head of Assessment & Leadership Development @ESCE, Founder @Habilitatem
 
 
 
