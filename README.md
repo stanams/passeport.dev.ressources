@@ -39,14 +39,14 @@ Il est également possible de proposer des features et d'en discuter via une iss
 ## Hypothèses
 
 ***Plusieurs hypothèses à garder en tête:***
-👉 cela se veut le plus agnostique de tout langage ou framework (abat les 75% Javascript, 90% git etc…)
-👉 quelques technos spécifiques comme Docker ou GraphQL font exception, car sont suffisamment universelles pour constituer une skill en soi
-👉 ce qu’on ne maîtrise pas n’est pas forcément un manque en soi, ce qui compte c’est la big picture, la forme sur la gauche, qui nous aide à comprendre quel.le dev je suis
-👉 l'objectif est aussi d'aider à définir sa trajectoire, et pouvoir mieux juger quelle(s) prochaine(s) skill(s) seraient intéressante(s) à approfondir
-👉 quelques besoins qui ont déjà émergés: envoie de la skills map en pré-entretien, génération pour tout une équipe, plus de customisation du contenu etc… Si tu as des suggestions, n'hésite pas à ouvrir une issue
-👉 on parle ici de dev applicatif et pas de DevOps, Sec Eng, QA, Data/AI people, juste de Plain Old Software Engineer etc…, on parle d'ailleurs de plus en plus de "Product Engineer"
-👉 le focus ici est d'abord mis sur des hard skills, les soft skills viendront dans un second temps
-👉 n’étant pas un expert de tous ces sujets, il va certainement manquer des skills (notamment côté mobile ou infra & réseau), si tu veux compléter n’hésites pas à créer une issue
+👉 cela se veut le plus agnostique de tout langage ou framework (abat les 75% Javascript, 90% git etc…)\
+👉 quelques technos spécifiques comme Docker ou GraphQL font exception, car sont suffisamment universelles pour constituer une skill en soi\
+👉 ce qu’on ne maîtrise pas n’est pas forcément un manque en soi, ce qui compte c’est la big picture, la forme sur la gauche, qui nous aide à comprendre quel.le dev je suis\
+👉 l'objectif est aussi d'aider à définir sa trajectoire, et pouvoir mieux juger quelle(s) prochaine(s) skill(s) seraient intéressante(s) à approfondir\
+👉 quelques besoins qui ont déjà émergés: envoie de la skills map en pré-entretien, génération pour tout une équipe, plus de customisation du contenu etc… Si tu as des suggestions, n'hésite pas à ouvrir une issue\
+👉 on parle ici de dev applicatif et pas de DevOps, Sec Eng, QA, Data/AI people, juste de Plain Old Software Engineer etc…, on parle d'ailleurs de plus en plus de "Product Engineer"\
+👉 le focus ici est d'abord mis sur des hard skills, les soft skills viendront dans un second temps\
+👉 n’étant pas un expert de tous ces sujets, il va certainement manquer des skills (notamment côté mobile ou infra & réseau), si tu veux compléter n’hésites pas à créer une issue\
 👉 ce projet ne repose pas sur une méthode scientifique, mais sur l'expérience empirique en tant que software engineer, engnineering manager, recruteur tech, et résulte des échanges menés en 2023 avec une 60 aine de startups tech, et près de 200 software engineers en France.
 
 ## Inspirations
