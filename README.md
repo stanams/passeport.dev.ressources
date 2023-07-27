@@ -18,8 +18,8 @@ Et son corrolaire: **Quel.le dev je veux être ?**
 ## Catégories
 - [Continuous Integration](continuous-integration.md)
 - [Software Documentation](software-documentation.md)
-- Programming
-- Application testing
+- [Programming](programming.md)
+- [Application testing](application-testing.md)
 - API design
 - System design & architecture
 - Cloud infrastructure & network
@@ -71,6 +71,6 @@ Simon Maurin - Lead Architect @leboncoin\
 Stéphane Ruhlmann - Lead fullstakc engineer @beta.gouv\
 Martin Lechaptois - ex Head of Engnieering @Singulart\
 Andres Davila - Management Professor, Psychologist - Head of Assessment & Leadership Development @ESCE, Founder @Habilitatem
-
+Gilles Walbrou, CTO @DataDome
 
 
