@@ -4,7 +4,7 @@ Ce repo contient l'ensemble des ressources correspondantes aux skills du Passepo
 
 ![Passeport Dev](https://i.postimg.cc/P5Vmjv9f/Capture-d-e-cran-2023-07-25-a-12-46-21.png)
 
-**Si tu souhaites l'obtenir** en version Figma interactive, tu peux te rendre sur ce form: https://tally.so/r/nGK25j et il te sera envoyé dans ta boîte email.
+**Si tu souhaites l'obtenir** en version Figma interactive (privée), tu peux te rendre sur ce form: https://tally.so/r/nGK25j et il te sera envoyé dans ta boîte email.
 
 ## Objectif
 
@@ -39,6 +39,7 @@ Il est également possible de proposer des features et d'en discuter via une iss
 ## Hypothèses
 
 ***Plusieurs hypothèses à garder en tête:***
+\
 👉 cela se veut le plus agnostique de tout langage ou framework (abat les 75% Javascript, 90% git etc…)\
 👉 quelques technos spécifiques comme Docker ou GraphQL font exception, car sont suffisamment universelles pour constituer une skill en soi\
 👉 ce qu’on ne maîtrise pas n’est pas forcément un manque en soi, ce qui compte c’est la big picture, la forme sur la gauche, qui nous aide à comprendre quel.le dev je suis\
@@ -70,7 +71,7 @@ Marc G. Gauthier - Director of Engineering @BackMarket\
 Simon Maurin - Lead Architect @leboncoin\
 Stéphane Ruhlmann - Lead fullstakc engineer @beta.gouv\
 Martin Lechaptois - ex Head of Engnieering @Singulart\
-Andres Davila - Management Professor, Psychologist - Head of Assessment & Leadership Development @ESCE, Founder @Habilitatem
+Andres Davila - Management Professor, Psychologist - Head of Assessment & Leadership Development @ESCE, Founder @Habilitatem\
 Gilles Walbrou, CTO @DataDome
 
 
