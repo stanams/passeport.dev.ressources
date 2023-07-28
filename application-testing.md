@@ -48,4 +48,4 @@ Une grande partie de la qualité logicielle passe par l’écriture de tests à 
 
 **Ressources**:\
 [What Is End-to-End Testing?](https://www.browserstack.com/guide/end-to-end-testing)\
-[What Is End-to-End Testing?](https://www.youtube.com/watch?v=wycIcpuLkzU&pp=ygUSZW5kIHRvIGVuZCB0ZXN0aW5n)\
+[What Is End-to-End Testing?](https://www.youtube.com/watch?v=wycIcpuLkzU&pp=ygUSZW5kIHRvIGVuZCB0ZXN0aW5n)

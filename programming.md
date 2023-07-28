@@ -71,4 +71,4 @@ Les patterns de programmation sont des solutions éprouvées à des problèmes d
 **Description**: Le multithreading est une technique de programmation permettant l'exécution simultanée de plusieurs fils d'exécution (threads) au sein d'un programme. Chaque thread représente une séquence d'instructions indépendante et peut être utilisé pour effectuer des tâches en parallèle, améliorant ainsi l'efficacité et la capacité de réponse des programmes en exploitant les ressources du processeur de manière optimale.
 
 **Ressources**:\
-[A Gentle Introduction To Multithreading](https://www.internalpointers.com/post/gentle-introduction-multithreading)\
+[A Gentle Introduction To Multithreading](https://www.internalpointers.com/post/gentle-introduction-multithreading)
