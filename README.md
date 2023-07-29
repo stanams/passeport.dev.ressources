@@ -22,8 +22,8 @@ Et son corrolaire: **Quel.le dev je veux être ?**
 - [Application testing](application-testing.md)
 - [API design](api-design.md)
 - [System Design & Architecture](system-design-architecture.md)
-- Cloud infrastructure & network
-- Observability
+- [Cloud infrastructure & Network](cloud-infrastructure-network.md)
+- [Observability](observability.md)
 - Frontend
 - Data modeling
 
