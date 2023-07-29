@@ -24,8 +24,8 @@ Et son corrolaire: **Quel.le dev je veux être ?**
 - [System Design & Architecture](system-design-architecture.md)
 - [Cloud infrastructure & Network](cloud-infrastructure-network.md)
 - [Observability](observability.md)
-- Frontend
-- Data modeling
+- [Frontend](frontend.md)
+- [Data modeling](data-modeling.md)
 
 Si tu penses qu'une catégorie devrait apparaître ou est en trop, parlons-en dans une issue!
 
